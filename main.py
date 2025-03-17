@@ -527,78 +527,78 @@ questions = {
                 "More information can be found at [link](https://www.tourister.ru/world/europe/russia/city/tyumen/parks/39603)"
             )
         },
-    "👨‍👩‍👧‍👦 Family": {
-        "🌉❤ Lovers' Bridge": {
-            "question": "What does the tradition of hanging locks mean?",
-            "answer": (
-                "It symbolizes strong relationships and family happiness.\n\n"
-                "More information can be found at [link](https://www.tourister.ru/world/europe/russia/city/tyumen/bridges/28125)"
-            )
-        },
-        "🐱🪴 Siberian Cats Square": {
-            "question": "Why specifically Siberian cats?",
-            "answer": (
-                "They are known for their endurance and thick fur, ideal for cold climates.\n\n"
-                "More information can be found at [link](https://www.tourister.ru/world/europe/russia/city/tyumen/placeofinterest/39599)"
-            )
-        },
-        "🌳 Dzerzhinsky Square": {
-            "question": "Why is this square popular among locals?",
-            "answer": (
-                "This square is interesting for its history, architecture, and the monument to Dzerzhinsky.\n\n"
-                "More information can be found at [link](https://en.wikipedia.org/wiki/Felix_Dzerzhinsky)"
-            )
-        },
-        "🛣️ Tsvetnoy Boulevard": {
-            "question": "What entertainment is available for children here?",
-            "answer": (
-                "There are carousels, play areas, and circus performances.\n\n"
-                "More information can be found at [link](https://www.tourister.ru/world/europe/russia/city/tyumen/placeofinterest/39600)"
-            )
-        },
-        "🏞️🚶‍♂ Tura River Embankment": {
-            "question": "Can you have a picnic here?",
-            "answer": (
-                "Yes, there are convenient picnic areas along the embankment.\n\n"
-                "More information can be found at [link](https://www.tourister.ru/world/europe/russia/city/tyumen/placeofinterest/39601)"
-            )
-        },
-        "⛪ Znamensky Cathedral": {
-            "question": "Can you go inside the cathedral?",
-            "answer": (
-                "Yes, it's open to visitors, and you can see ancient icons inside.\n\n"
-                "More information can be found at [link](https://www.tourister.ru/world/europe/russia/city/tyumen/temples/28126)"
-            )
-        },
-        "🏛️ Tyumen Drama Theater": {
-            "question": "Are there children's performances?",
-            "answer": (
-                "Yes, the theater regularly stages children's plays and fairy tales.\n\n"
-                "More information can be found at [link](https://www.tourister.ru/world/europe/russia/city/tyumen/theaters/28127)"
-            )
-        },
-        "🏛️🛢️ Museum of Geology, Oil, and Gas": {
-            "question": "Will children find this museum interesting?",
-            "answer": (
-                "Yes, there are many educational exhibits that children can touch.\n\n"
-                "More information can be found at [link](https://www.tourister.ru/world/europe/russia/city/tyumen/museum/28128)"
-            )
-        },
-        "📜🌳 Historical Park 'Russia – My History'": {
-            "question": "Will children find it interesting?",
-            "answer": (
-                "Yes, there are interactive screens and engaging video presentations.\n\n"
-                "More information can be found at [link](https://www.tourister.ru/world/europe/russia/city/tyumen/museum/39602)"
-            )
-        },
-        "🌲🏞️ Gilevskaya Grove": {
-            "question": "Are there playgrounds here?",
-            "answer": (
-                "Yes, the park has play areas for children.\n\n"
-                "More information can be found at [link](https://www.tourister.ru/world/europe/russia/city/tyumen/parks/39603)"
-            )
-        }
-    }
+    # "👨‍👩‍👧‍👦 Family": {
+    #     "🌉❤ Lovers' Bridge": {
+    #         "question": "What does the tradition of hanging locks mean?",
+    #         "answer": (
+    #             "It symbolizes strong relationships and family happiness.\n\n"
+    #             "More information can be found at [link](https://www.tourister.ru/world/europe/russia/city/tyumen/bridges/28125)"
+    #         )
+    #     },
+    #     "🐱🪴 Siberian Cats Square": {
+    #         "question": "Why specifically Siberian cats?",
+    #         "answer": (
+    #             "They are known for their endurance and thick fur, ideal for cold climates.\n\n"
+    #             "More information can be found at [link](https://www.tourister.ru/world/europe/russia/city/tyumen/placeofinterest/39599)"
+    #         )
+    #     },
+    #     "🌳 Dzerzhinsky Square": {
+    #         "question": "Why is this square popular among locals?",
+    #         "answer": (
+    #             "This square is interesting for its history, architecture, and the monument to Dzerzhinsky.\n\n"
+    #             "More information can be found at [link](https://en.wikipedia.org/wiki/Felix_Dzerzhinsky)"
+    #         )
+    #     },
+    #     "🛣️ Tsvetnoy Boulevard": {
+    #         "question": "What entertainment is available for children here?",
+    #         "answer": (
+    #             "There are carousels, play areas, and circus performances.\n\n"
+    #             "More information can be found at [link](https://www.tourister.ru/world/europe/russia/city/tyumen/placeofinterest/39600)"
+    #         )
+    #     },
+    #     "🏞️🚶‍♂ Tura River Embankment": {
+    #         "question": "Can you have a picnic here?",
+    #         "answer": (
+    #             "Yes, there are convenient picnic areas along the embankment.\n\n"
+    #             "More information can be found at [link](https://www.tourister.ru/world/europe/russia/city/tyumen/placeofinterest/39601)"
+    #         )
+    #     },
+    #     "⛪ Znamensky Cathedral": {
+    #         "question": "Can you go inside the cathedral?",
+    #         "answer": (
+    #             "Yes, it's open to visitors, and you can see ancient icons inside.\n\n"
+    #             "More information can be found at [link](https://www.tourister.ru/world/europe/russia/city/tyumen/temples/28126)"
+    #         )
+    #     },
+    #     "🏛️ Tyumen Drama Theater": {
+    #         "question": "Are there children's performances?",
+    #         "answer": (
+    #             "Yes, the theater regularly stages children's plays and fairy tales.\n\n"
+    #             "More information can be found at [link](https://www.tourister.ru/world/europe/russia/city/tyumen/theaters/28127)"
+    #         )
+    #     },
+    #     "🏛️🛢️ Museum of Geology, Oil, and Gas": {
+    #         "question": "Will children find this museum interesting?",
+    #         "answer": (
+    #             "Yes, there are many educational exhibits that children can touch.\n\n"
+    #             "More information can be found at [link](https://www.tourister.ru/world/europe/russia/city/tyumen/museum/28128)"
+    #         )
+    #     },
+    #     "📜🌳 Historical Park 'Russia – My History'": {
+    #         "question": "Will children find it interesting?",
+    #         "answer": (
+    #             "Yes, there are interactive screens and engaging video presentations.\n\n"
+    #             "More information can be found at [link](https://www.tourister.ru/world/europe/russia/city/tyumen/museum/39602)"
+    #         )
+    #     },
+    #     "🌲🏞️ Gilevskaya Grove": {
+    #         "question": "Are there playgrounds here?",
+    #         "answer": (
+    #             "Yes, the park has play areas for children.\n\n"
+    #             "More information can be found at [link](https://www.tourister.ru/world/europe/russia/city/tyumen/parks/39603)"
+    #         )
+    #     }
+    # }
     }
     }
 }
